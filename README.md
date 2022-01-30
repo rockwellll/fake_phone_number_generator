@@ -34,7 +34,7 @@ it is called to avoid unique database constraints errors. The generated numbers 
 
 ### Generating a new number
 
-To generate a new number, simply call `.generate` and pass the `country` key argument. The country defaults to "US". 
+To generate a new number, simply call `.generate` and pass the `country` named argument.
 
 ```ruby
 FakePhoneNumberGenerator.generate country: "US"
