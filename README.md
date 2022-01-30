@@ -43,7 +43,7 @@ FakePhoneNumberGenerator.generate country: "IQ"
 # => "964958765359"
 # 
 
-FakePhoneNumberGenerator.generate country: "IQ"
+FakePhoneNumberGenerator.generate country: "FR"
 # => "337377555666"
 ```
 
