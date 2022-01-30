@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "fake_phone_number_generator"
-  s.version     = "1.0.1"
+  s.version     = "1.0.2"
   s.summary     = "Generate random, valid, unique phone numbers for a specific country"
   s.description = "A simple class that generates a random valid unique phone number"
   s.authors     = ["Rockwell"]
