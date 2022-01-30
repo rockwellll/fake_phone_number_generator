@@ -1,5 +1,6 @@
 ### Generate random, unique, valid phone numbers in e164 format.
 
+[![Gem Version](https://badge.fury.io/rb/fake_phone_number_generator.svg)](https://badge.fury.io/rb/fake_phone_number_generator)
 
 ### Motive
 
